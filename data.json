@@ -1,0 +1,183 @@
+{
+    "KK": {
+      "KK Baru": [
+        "Formulir F1",
+        "Fotocopy Akta Kelahiran",
+        "Fotocopy Akta Nikah/kutipan akta perkawinan(bagi yang sudah menikah)",
+        "Surat Keterangan Pindah Datang (bagi penduduk yang pindah dalam wilayah Negara Kesatuan Republik Indonesia)"
+      ],
+      "Perubahan Data KK": [
+        "Formulir F1.06 Bermaterai",
+        "KK Lama",
+        "Fotocopy Akta Kelahiran dan atau Ijazah Untuk Verifikasi Data (Tidak Wajib)",
+        "Fotocopy Akta Nikah/kutipan akta perkawinan(bagi yang sudah menikah) (Tidak Wajib)",
+        "Fotocopy Akta Kematian atau Surat Keterangan Kematian dari Desa/Kelurahan (Tidak Wajib)",
+        "Fotocopy Salinan Penetapan Pengadilan Untuk Perubahan Status Perkawinan (Tidak Wajib)",
+        "Dokumen Lain yang Dibutuhkan Sebagai Dasar Perubahan Data (Tidak Wajib)"
+      ],
+      "KK Penambahan Anggota Keluarga": [
+        "KK Lama",
+        "Surat Keterangan Kelahiran dari Desa/Kelurahan atau Rekomendasi Pindah Datang dari Dinas Kependudukan dan Pencatatan Sipil"
+      ],
+      "KK Pengurangan Anggota Keluarga": [
+        "KK Lama",
+        "Surat Keterangan Kelahiran dari Desa/Kelurahan atau Rekomendasi Pindah Datang dari Dinas Kependudukan dan Pencatatan Sipil"
+      ],
+      "KK Hilang": [
+        "Surat Keterangan Kehilangan dari Kepolisian",
+        "Menunjukkan Dokumen Kependudukan Akte Lahir/KTP (Asli atau Fotocopy dari Salah Satu Anggota Keluarga)",
+        "Dokumen ke-imigrasian bagi orang asing (Tidak Wajib)"
+      ],
+      "KK Rusak": [
+        "KK yang Rusak (Jika KK Rusak)",
+        "Menunjukkan Dokumen Kependudukan Akte Lahir/KTP (Asli atau Fotocopy dari Salah Satu Anggota Keluarga)",
+        "Dokumen ke-imigrasian bagi orang asing (Tidak Wajib)"
+      ]
+    },
+    "KTP": {
+      "KTP Baru": [
+        "Telah Berusia 17Th/Sudah kawin/Pernah Kawin",
+        "Sudah Melakukan Perekaman Data KTP-Elektronik",
+        "Fotocopy KK Terbaru (Jika Ada Perubahan Data Kependudukan KK Harus Diubah dulu)",
+        "Semua Berkas Dibawa Ke Kecamatan dan Mengisi Permohonan Cetak KTP-Elektronik"
+      ],
+      "KTP Perubahan Data": [
+        "Fotocopy KK Terbaru (Jika Ada Perubahan Data Kependudukan KK Harus Diubah dulu)",
+        "KTP-Elektronik Lama (bagi Penduduk yang Mengubah Data)",
+        "Melampirkan Data Dukung untuk Perubahan Datanya (Fotocopy Surat Nikah/Ijazah/Akta Kelahiran/Putusan Pengadilan) dan atau Data Dukung Lainnya",
+        "F1.06"
+      ],
+      "KTP Hilang": [
+        "Fotocopy KK Terbaru",
+        "Surat Kehilangan dari Kepolisian untuk Penggantian KTP yang Hilang",
+        "Fotocopy KTP yang Hilang (jika Ada)",
+        "Semua Berkas dibawa Ke Kecamatan dan Mengisi Permohonan Cetak KTP-Elektronik"
+      ],
+      "KTP Rusak": [
+        "Fotocopy KK Terbaru",
+        "Melampirkan KTP yang Rusak"
+      ]
+    },
+    "Pindah Datang Tercecer": {
+      "Surat Keterangan Pindah Warga Negara Indonesia (SKPWNI) Antar Kab/Prov": [
+        "Pemohon Mengisi Formulir F1.03",
+        "KTP Asli dan Fotocopy 1 Lembar Atas Bawah Tidak Dipotong",
+        "KK Fotocopy Sebelum Pindah",
+        "Surat Nikah Lembaran Tidak Dipotong(Bagi yang Sudah Menikah) dan Data Harus Sama dengan Ijazah dan Akte Lahir (Tidak Wajib)"
+      ],
+      "Surat Keterangan Persetujuan Pindah Datang (SKDWNI) Antar Kab/Prov": [
+        "Surat Keterangan Pindah (SKPWNI) dari Disdukcapil Asal",
+        "Biodata yang Dikeluarkan Kabupaten/Kota Asal (Pastikan Data Terbaru. Lengkap dan Benar) Atau Bisa Diganti Fotocopy KK Terakhir dari Daerah Asal. Lampiri Akte Lahir serta Ijazah dan Surat Nikah Jika Ada Data yang Perlu Disesuaikan",
+        "Fotocopy Surat Nikah (Bagi yang Sudah Menikah Pastikan Data Harus Sesuai Satu Sama Lain)"
+      ],
+      "Pendaftaran dan penerbitan Dokumen Kependudukan bagi Penduduk yang Tidak Mempunyai Dokumen Kependudukan": [
+        "> Surat Pengantar dari Desa/Kelurahan",
+        "Surat Pernyataan ingin Berdomisili di Kabupaten Wonogiri Bermeterai 10000",
+        "Surat Keterangan Domisili yang Diketahui RT (Bermeterai 10000), Kades/Lurah dan Camat, Cap Harus Jelas diatas Materai",
+        "Surat Pernyataan belum pernah terdaftar di database kependudukan di wilayah manapun bermeterai 10000",
+        "Pas Foto berwarna ukuran 4x6 (4 Lembar)",
+        "KK asli yang akan ditumpangi, jika numpang KK",
+        "Akta Kelahiran jika ada (Tidak Wajib)",
+        "Ijazah jika ada (Tidak Wajib)",
+        "Surat Nikah jika ada (Tidak Wajib)",
+        "Paspor jika ada (Tidak Wajib)",
+        "F2.01 (Jika belum memiliki Akta Kelahiran) (Tidak Wajib)",
+        "Surat keterangan kelahiran dari RS/Puskesmas/Fasilitas Kesehatan/Dokter/Bidan/Kepala Desa/Lurah atau menggunakan SPTJM Kelahiran (jika belum memiliki Akta Kelahiran) (Tidak Wajib)",
+        "Surat Nikah/Akta Perkawinan(ASLI)/SPTJM Kebenaran Pasangan Suami Istri (jika belum memiliki akta kelahiran) (Tidak Wajib)",
+        "Fotocopy KTP 2 (dua) orang saksi yang mengetahui peristiwa kelahiran (Jika belum memiliki akta kelahiran) (Tidak Wajib)"
+      ],
+      "Surat Keterangan Pindah Warga Negara Indonesia (SKPWNI) Antar Kecamatan": [
+        "Pemohon Mengisi formulir F1.03",
+        "KTP Asli dan Fotocopy 1 Lembar atas bawah tidak dipotong",
+        "KK Fotocopy sebelum pindah",
+        "Surat Nikah lembaran tidak dipotong (bagi yang sudah menikah) dan data harus sama dengan ijazah dan akte lahir (Tidak Wajib)"
+      ],
+      "Surat Keterangan Pindah Warga Negara Indonesia (SKPWNI) Antar Desa/Kel": [
+        "Pemohon Mengisi formulir F1.03",
+        "KTP Asli dan Fotocopy 1 Lembar atas bawah tidak dipotong",
+        "KK Fotocopy sebelum pindah",
+        "Surat Nikah lembaran tidak dipotong (bagi yang sudah menikah) dan data harus sama dengan ijazah dan akte lahir (Tidak Wajib)"
+      ],
+      "Surat Keterangan Persetujuan Pindah Datang (SKDWNI) Antar Kecamatan": [
+        "Surat Keterangan Pindah (SKPWNI) dari Disdukcapil Asal",
+        "Biodata yang dikeluarkan Kabupaten/Kota Asal, Pastikan data terbaru, lengkap dan benar. Atau bisa diganti Fotocopy KK terakhir dari daerah asal. Lampiri akte lahir, ijazah dan surat nikah jika ada data yang perlu disesuaikan",
+        "Surat Pernyataan Domisili yang diketahui RT (Bermeterai 6000), kades/Lurah dan Camat daerah tujuan, cap harus jelas di atas meterai",
+        "Fotocopy surat nikah bagi yang sudah menikah, data harus sesuai satu sama lain (Tidak Wajib)"
+      ],
+      "Surat Keterangan Persetujuan Pindah Datang (SKDWNI) Antar Desa/Kel": [
+        "Surat Keterangan Pindah (SKPWNI) dari Disdukcapil Asal",
+        "Biodata yang dikeluarkan Kabupaten/Kota Asal, Pastikan data terbaru, lengkap dan benar. Atau bisa diganti Fotocopy KK terakhir dari daerah asal. Lampiri akte lahir, ijazah dan surat nikah jika ada data yang perlu disesuaikan",
+        "Surat Pernyataan Domisili yang diketahui RT (Bermeterai 6000), kades/Lurah dan Camat daerah tujuan, cap harus jelas di atas meterai",
+        "Fotocopy surat nikah bagi yang sudah menikah, data harus sesuai satu sama lain (Tidak Wajib)"
+      ]  
+    },
+    "KIA": {
+      "Kartu Identitas Anak (KIA) Baru": [
+        "Fotocopy Kutipan Akte Kelahiran",
+        "Fotocopy KK Orang Tua/Wali",
+        "Fotocopy KTP Orang Tua/Wali",
+        "Pas Foto Berwarna ukuran 4x6, 2 Lembar untuk anak usia 5-17 tahun kurang 1 hari (Tidak Wajib)"
+      ],
+      "Kartu Identitas Anak (KIA) Karena Perubahan Data": [
+        "Fotocopy KK Orang Tua/Wali yang sudah dirubah datanya",
+        "Fotocopy KTP Orang Tua/Wali terbaru",
+        "Fotocopy Kutipak Akte Kelahiran",
+        "Pas Foto berwarna 4x6, 2 Lembar (Tidak Wajib)",
+        "KIA Lama (Tidak Wajib)"
+      ],
+      "Kartu Identitas Anak (KIA) Karena Hilang": [
+        "Surat laporan kehilangan dari kepolisian",
+        "Fotocopy KIA yang hilang jika ada (Tidak Wajib)",
+        "Fotocopy kutipan akta kelahiran",
+        "Fotocopy KK orang Tua/Wali",
+        "Fotocopy KTP Orang Tua/Wali"
+      ],
+      "Kartu Identitas Anak (KIA) Karena Rusak": [
+        "Fotocopy KIA yang rusak",
+        "Fotocopy kutipan akta kelahiran",
+        "Fotocopy KK orang Tua/Wali",
+        "Fotocopy KTP Orang Tua/Wali"
+      ]
+      
+    },
+    "Akta": {
+      "Akta Kelahiran": [
+        "F2.01",
+        "Fotocopy Surat Keterangan Kelahiran dari RS/Puskesmas/Fasilitas Kesehatan Dokter/Bidan/Kepala Desa/Lurah atau Menggunakan SPTJM Kelahiran",
+        "Surat Nikah/Akta Perkawinan(ASLI)/SPTJM Kebenaran Pasangan Suami Istri",
+        "Kartu Keluarga (KK) Orang Tua",
+        "Fotocopy KTP 2 (dua) orang saksi yang mengetahui peristiwa kejadian"
+      ],
+      "Akta Kematian": [
+        "F2.01",
+        "SPTJM Kematian (Tidak Wajib)",
+        "Kartu Keluarga (KK)",
+        "Surat Keterangan Kematian dari Rumah Sakit/Puskesmas/Visum Dokter/Kepala Desa/Lurah(Tidak Wajib)",
+        "Fotocopy KTP dari 2 (dua) orang saksi berusia 21 Tahun keatas (Tidak Wajib)"
+      ],
+      "Akta Perkawinan":[
+        "F2.01",
+        "Bukti Pemberkatan/Pengesahan Perkawinan dari Pemuka Agama Masing-Masing",
+        "Fotocopy Kutipan Akta Kelahiran calon Mempelai",
+        "Foto Copy KTP calon mempelai dan Kartu Keluarga yang dilegalisir oleh Instansi yang berwenang",
+        "Salinan Akta Perceraian/Akta Kematian Istri bagi Calon Suami istri yang pernah kawin dan bercerai/salah satu meninggal dunia",
+        "Mempelai yang berumur kurang dari 21 tahun harus ada surat izin dari orang tua (Tidak Wajib)",
+        "Bagi mempelai yang belum berusia 19 tahun (Pria) dan 16 tahun (Wanita) harus ada izin dan Pengadilan Negeri (Tidak Wajib)",
+        "Pas foto berdampingan ukuran 4 x 6 cm (berwarna) sebanyak 4 (empat) lembar",
+        "Bagi anggota TNI/POLRI melampirkan Surat Ijin Kawin dari Komandan/Kepala (Tidak Wajib)",
+        "Surat Dispensasi dan Camat bagi yang mendaftar kurang dari 10 hari kerja saat perkawinan akan dilangsungkan (Tidak Wajib)",
+        "Dua orang saksi yang memenuhi persyaratan",
+        "Bagi Warga Negara Asing (WNA) ditambah Pasport, Visa, Dokumen Imigrasi, Surat Ijin dari Kedutaan Besar/Perkawinan Negara Konsulat"
+      ],
+      "Pembetulan Akta Pencatatan Sipil":[
+        "F2.01",
+        "Fotocopy KTP (Untuk Akta Kelahiran KTP Orang Tua)",
+        "Fotocopy KK",
+        "Surat pernyataan",
+        "Fotocopy Kutipan Akta/kutipan yang rusak (kalau ada) (Tidak Wajib)",
+        "Surat kehilangan dari kepolisian (akta hilang) (Tidak Wajib)",
+        "Foto suami istri berjajar 4x6 berwarna (untuk duplikat akta perkawinan) (Tidak Wajib)",
+        "Surat kuasa (bagi yang dikuasakan) (Tidak Wajib)"
+      ]
+  }
+} 
